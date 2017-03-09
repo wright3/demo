@@ -1,2 +1,3 @@
 hello
+git merge test
 git pull test
